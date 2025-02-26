@@ -5,11 +5,11 @@
     <table class="min-w-full">
         <thead>
             <tr class="bg-gray-50">
-                <th class="px-6 py-3 text-left">Server IP</th>
-                <th class="px-6 py-3 text-left">Filename</th>
-                <th class="px-6 py-3 text-left">File Size</th>
-                <th class="px-6 py-3 text-left">Date Created</th>
-                <th class="px-6 py-3 text-left">Time Created</th>
+                <th class="px-6 py-3 text-left text-sm font-medium text-gray-900 uppercase">Server IP</th>
+                <th class="px-6 py-3 text-left text-sm font-medium text-gray-900 uppercase">Filename</th>
+                <th class="px-6 py-3 text-left text-sm font-medium text-gray-900 uppercase">File Size</th>
+                <th class="px-6 py-3 text-left text-sm font-medium text-gray-900 uppercase">Date Created</th>
+                <th class="px-6 py-3 text-left text-sm font-medium text-gray-900 uppercase">Time Created</th>
             </tr>
         </thead>
         <tbody>

@@ -5,10 +5,10 @@
     <table class="min-w-full">
         <thead>
             <tr class="bg-gray-50">
-                <th class="px-6 py-3 text-left">Server IP</th>
-                <th class="px-6 py-3 text-left">Last Update</th>
-                <th class="px-6 py-3 text-left">Date Recorded</th>
-                <th class="px-6 py-3 text-left">Time Recorded</th>
+                <th class="px-6 py-3 text-left text-sm font-medium text-gray-900 uppercase">Server IP</th>
+                <th class="px-6 py-3 text-left text-sm font-medium text-gray-900 uppercase">Last Update</th>
+                <th class="px-6 py-3 text-left text-sm font-medium text-gray-900 uppercase">Date Recorded</th>
+                <th class="px-6 py-3 text-left text-sm font-medium text-gray-900 uppercase">Time Recorded</th>
             </tr>
         </thead>
         <tbody>

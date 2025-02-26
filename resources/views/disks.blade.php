@@ -24,7 +24,7 @@
                 <th class="px-6 py-3 text-left text-sm font-medium text-gray-900 uppercase">Total Size</th>
                 <th class="px-6 py-3 text-left text-sm font-medium text-gray-900 uppercase">Free Space</th>
                 <th class="px-6 py-3 text-left text-sm font-medium text-gray-900 uppercase">Status</th>
-                <th class="px-6 py-3 text-left text-sm font-medium text-gray-900 uppercase">Action</th>
+                <th class="px-3 py-3 text-left text-sm font-medium text-gray-900 uppercase">Action</th>
             </tr>
         </thead>
         <tbody>
