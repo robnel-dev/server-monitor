@@ -24,7 +24,7 @@
                 <th class="px-6 py-3 text-left text-sm font-medium text-gray-900 uppercase">Total Size</th>
                 <th class="px-6 py-3 text-left text-sm font-medium text-gray-900 uppercase">Free Space</th>
                 <th class="px-6 py-3 text-left text-sm font-medium text-gray-900 uppercase">Status</th>
-                <th class="px-3 py-3 text-left text-sm font-medium text-gray-900 uppercase">Action</th>
+                <th class="px-3 py-3 text-left text-sm font-medium text-gray-900 uppercase">Graph</th>
             </tr>
         </thead>
         <tbody>
@@ -43,7 +43,7 @@
                         <span class="bg-green-100 text-green-800 px-2 py-1 rounded">🟢 </span>
                     @endif
                 </td>
-                <td> <a href="{{ route('disks') }}" class="px-4 py-2 bg-blue-500 text-white rounded">Action</a></td>
+                <td> <a href="{{ route('disks') }}" class="px-4 py-2 bg-blue-500 text-white rounded">View</a></td>
             </tr>
             @endforeach
         </tbody>
