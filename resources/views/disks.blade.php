@@ -4,7 +4,7 @@
 <div class="py-12">
     <div class="max-w-7xl mx-auto sm:px-6 lg:px-8">
         <!-- Status Legend -->
-        <div class="mb-6 flex gap-3">
+        <div class="mb-6 ml-6 flex gap-3">
             <span class="px-3 py-1.5 bg-red-100 text-red-800 rounded-full text-sm font-medium">
                 Critical 🔴
             </span>
