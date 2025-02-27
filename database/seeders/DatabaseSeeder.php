@@ -16,6 +16,6 @@ class DatabaseSeeder extends Seeder {
         Antivirus::factory()->count(5)->create();
 
         // Generate 5 Log Files
-        LogFile::factory()->count(5)->create();
+        LogFile::factory()->count(1)->create();
     }
 }
